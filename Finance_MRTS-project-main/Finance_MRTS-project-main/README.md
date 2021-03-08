@@ -1,0 +1,13 @@
+# Finance_MRTS-project
+Designed, back-tested and optimized a data-driven quantitative trading
+strategy on real-world data in python using the data of 1 yearfor stocks listed
+at the NSE from theirrespective log files.
+Developed an intra-day mean reversion strategy to give greaterthan 20%
+return on capital(RoC) using Hurst exponent calculation and ARIMA model for
+prediction
+Calculated hurst exponents for each stock to classify them into mean reverting and trending stocks
+Calculated mean values and deviation using StockVWAP and price spread for different time frames
+Filtered the top 25 stocks using a criteria and implemented ARIMA model to predict future price of the stock
+Built a mean reversion trading strategy using predicting when to buy or sell/short the stock
+ further details:https://docs.google.com/document/d/1ttSY7uiD3Lh9XXFHvYwSNvx7Z6VU7KKST1UgwQWF9Sk/edit
+stocks data: https://drive.google.com/drive/folders/1u0N40C42v12iaZNZF_H2ZemdrSmp6iPW
